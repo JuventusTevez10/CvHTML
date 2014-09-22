@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <!-- en-tête de la page -->
+        <meta charset="UTF-8">
+        <title>Présentaion Santos </title>
+    </head>
+
+    <body>
+        <!--j'ai 16 ans et ma vie c'est le foot -->
+        <p>Je suis née le 28 juillet 1998, à Castel franco veneto en Italie.</p>
+    
+
+
+        <p>j'aime beaucoup le foot et la Juventus de Turin</p>
+        <p>j'ai prit ISN car je suis fort en informatique </p>
+        <p>Tevez est mon joueur préféré</p>
+        <img src="Tevez.JPG">
+</body>
+</html>
